@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My pull requests ➡ [PRs](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
+My pull requests on alkemyTech/OT280-server ➡ [PRs](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
