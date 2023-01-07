@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 My pull requests on collaborative projects: 
 
+💲 [Wallet project](https://github.com/emmanuelranone/AlkemyWallet/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
+
 🙌 [ONG project](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
 
-💲 [Wallet project](https://github.com/emmanuelranone/AlkemyWallet/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
