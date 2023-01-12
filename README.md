@@ -23,7 +23,7 @@ Features:
 - CRUD operations for users entity
 - Create wallet account
 - Deposit, transfer and log transactions
-- Role based Web API with regular and admin users
+- Role based authorization with regular and admin users
 - JWT authentication
 
 🙌 [ONG](https://github.com/alkemyTech/OT280-server/tree/develop) ➡ [My PRs](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
