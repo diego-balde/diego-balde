@@ -19,5 +19,12 @@ My pull requests on collaborative projects:
 
 💲 [Wallet project](https://github.com/emmanuelranone/AlkemyWallet/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
 
+Features:
+- CRUD operations for users entity
+- Create wallet account
+- Deposit, transfer and log transactions
+- Role based Web API with regular and admin users
+- JWT authentication
+
 🙌 [ONG project](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
 
