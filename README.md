@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🤝 Collaborative projects in which I have participated:
 
-💲 [Wallet](https://github.com/emmanuelranone/AlkemyWallet) ➡ [My PRs](https://github.com/emmanuelranone/AlkemyWallet/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
+💲 [Wallet](https://github.com/emmanuelranone/AlkemyWallet) ➡ [My contributions](https://github.com/emmanuelranone/AlkemyWallet/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
 
 Features:
 - CRUD operations for users entity
@@ -26,5 +26,5 @@ Features:
 - Role based authorization with regular and admin users
 - JWT authentication
 
-🙌 [ONG](https://github.com/alkemyTech/OT280-server/tree/develop) ➡ [My PRs](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
+🙌 [ONG](https://github.com/alkemyTech/OT280-server/tree/develop) ➡ [My contributions](https://github.com/alkemyTech/OT280-server/pulls?q=is%3Apr+is%3Amerged+author%3Adiego-balde+)
 
